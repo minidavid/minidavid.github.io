@@ -1,0 +1,43 @@
+body{
+    background-color:black;
+}
+div.centered_thing, div.top{
+    background-color: burlywood;
+    color: black;
+    max-width: 500px;
+    margin: auto;
+    font-size:2rem;
+    font-family: sans-serif;
+    padding-right:25px;
+    padding-left:40px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    border-radius:1%;
+
+}
+div.iframe_top{
+    max-width:550px;
+    margin:auto;
+}
+
+a{
+    font-size: 3rem;
+    text-indent: 20%;
+    color: white;
+}
+hr{
+    border: 1px dashed black;
+}
+inside {
+    opacity: 100%;
+    margin-top: 0px;
+    color:white;
+}
+div.header_section {
+    margin: auto;
+    background-color:black;
+    position: fixed;
+    color: white;
+    text-decoration: none;
+
+}
